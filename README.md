@@ -4,9 +4,11 @@
       <td>
         <img height="200px" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=daviprios&show_icons=true&theme=dracula">
       </td>
-      <th>
+    </tr>
+    <tr>
+      <td>
         <img height="200px" alt="most used languages stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviprios&layout=compact&theme=dracula&langs_count=8">
-      </th>
+      </td>
     </tr>
     <tr>
       <td>
@@ -17,14 +19,7 @@
           <img height="40px" alt="javascript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           <img height="40px" alt="typescript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
           <img height="40px" alt="react icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/daviprios">
           <img height="40px" alt="nodejs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-          <img height="40px" alt="python icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          <img height="40px" alt="c icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-          <img height="40px" alt="c plus plus icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
         </a>
       </td>
     </tr>
